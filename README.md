@@ -1,0 +1,2 @@
+# JAMES-RICHARDSON
+Devoir python
